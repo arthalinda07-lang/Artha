@@ -1,16 +1,16 @@
-#Artha
+# Artha
 
 Hi, I'm Artha 👋
  Software Engineering student at AUCA  
 Interested in UI/UX, web development, and digital design  
 Currently learning GitHub, programming, and software engineering  
-##Skills
+## Skills
 - HTML
 - CSS
 - JavaScript (learning)
 - Git & GitHub
 - UI/UX Design
-##Goals
+## Goals
 - Build my portfolio
 - Upload projects regularly
 - Improve my coding skills
